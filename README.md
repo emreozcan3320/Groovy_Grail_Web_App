@@ -182,3 +182,7 @@ Among other tags, we’ll take advantage of  _<f:display/>_, which takes a bean 
 	</body>
 </html>
 ```
+
+> Resources
+> - http://www.vogella.com/tutorials/Grails/article.html
+> - https://www.youtube.com/watch?v=qcZ6FWmIuJc&index=2&list=PLlJ10NoMRw4odwmN_z0My4GyJvFgJAHUT
